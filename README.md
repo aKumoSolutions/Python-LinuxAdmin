@@ -23,6 +23,10 @@ A simple guide to usage of Python for Unix/Linux system admins.
 
 [file_path.py](scripts/file_path.py) - print absolute path of a file
 
+[memory_usage.py](scripts/memory_usage.py) - print memory usage in percentage
+
+[cpu_usage.py](scripts/cpu_usage.py) - print cpu usage 
+
 ## Additional Resources 
 [Python for System Administrators](https://python-for-system-administrators.readthedocs.io/en/latest/)
 

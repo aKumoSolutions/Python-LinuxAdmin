@@ -7,18 +7,18 @@ A simple guide to usage of Python for Unix/Linux system admins.
 
 ## Files
 
-[ls.py](ls.py) - run 'ls -l' command
+[ls.py](scripts/ls.py) - run 'ls -l' command
 
-[get_cwd.py](get_cwd.py) - get current working directory
+[get_cwd.py](scripts/get_cwd.py) - get current working directory
 
-[netstat.py](netstat.py) - run 'netstat -tulpn' command
+[netstat.py](scripts/scripts/netstat.py) - run 'netstat -tulpn' command
 
-[pysysinfo.py](pysysinfo.py) - generate system info ( uname and df command)
+[pysysinfo.py](scripts/pysysinfo.py) - generate system info (scripts/ uname and df command)
 
-[ss.py](ss.py) - run 'ss' command
+[ss.py](scripts/ss.py) - run 'ss' command
 
-[check_file.py](check_file.py) - check if a file is inside the folder or not
+[check_file.py](scripts/check_file.py) - check if a file is inside the folder or not
 
-[check_string.py](check_string.py) - check if a string is inside the file or not
+[check_string.py](scripts/check_string.py) - check if a string is inside the file or not
 
-[file_path.py](file_path.py) - print absolute path of a file
+[file_path.py](scripts/file_path.py) - print absolute path of a file

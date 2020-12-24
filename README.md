@@ -23,5 +23,6 @@ A simple guide to usage of Python for Unix/Linux system admins.
 
 [file_path.py](scripts/file_path.py) - print absolute path of a file
 
-## Useful Links
+## Additional Resources 
 [Python for System Administrators](https://python-for-system-administrators.readthedocs.io/en/latest/)
+[Mastering Python Scripting for System Administrators](https://github.com/PacktPublishing/Mastering-Python-Scripting-for-System-Administrators-)

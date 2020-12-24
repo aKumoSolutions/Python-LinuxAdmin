@@ -5,7 +5,7 @@
 
 A simple guide to usage of Python for Unix/Linux system admins. 
 
-## Files
+## Scripts
 
 [ls.py](scripts/ls.py) - run ``ls -l`` command
 

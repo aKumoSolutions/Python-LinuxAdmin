@@ -11,7 +11,7 @@ A simple guide to usage of Python for Unix/Linux system admins.
 
 [get_cwd.py](scripts/get_cwd.py) - get current working directory
 
-[netstat.py](scripts/scripts/netstat.py) - run 'netstat -tulpn' command
+[netstat.py](scripts/netstat.py) - run 'netstat -tulpn' command
 
 [pysysinfo.py](scripts/pysysinfo.py) - generate system info (scripts/ uname and df command)
 
@@ -22,3 +22,6 @@ A simple guide to usage of Python for Unix/Linux system admins.
 [check_string.py](scripts/check_string.py) - check if a string is inside the file or not
 
 [file_path.py](scripts/file_path.py) - print absolute path of a file
+
+## Useful Links
+[Python for System Administrators](https://python-for-system-administrators.readthedocs.io/en/latest/)

@@ -25,4 +25,5 @@ A simple guide to usage of Python for Unix/Linux system admins.
 
 ## Additional Resources 
 [Python for System Administrators](https://python-for-system-administrators.readthedocs.io/en/latest/)
+
 [Mastering Python Scripting for System Administrators](https://github.com/PacktPublishing/Mastering-Python-Scripting-for-System-Administrators-)

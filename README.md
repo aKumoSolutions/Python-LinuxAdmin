@@ -1,6 +1,6 @@
 # Python for Unix/Linux Admins
 <p align="center">
-  <img width="350" height="250" src="img/pythonlinux.jpg">
+  <img width="300" height="200" src="img/pythonlinux.jpg">
 </p>
 
 ## Project

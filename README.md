@@ -1,5 +1,7 @@
 # Python for Unix/Linux Admins
-![Alt text](img/pythonlinux.jpg?raw=true "Title")
+<p align="center">
+  <img width="350" height="250" src="img/pythonlinux.jpg">
+</p>
 
 ## Project
 
